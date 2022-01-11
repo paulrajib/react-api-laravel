@@ -1,0 +1,30 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# frontend folder
+front-end/node_modules
+front-end/.pnp
+front-end/.pnp.js
+front-end/build
+front-end/.DS_Store
+front-end/npm-debug.log*
+front-end/yarn-debug.log*
+front-end/yarn-error.log*
+
+# backend folder
+lara-bk-end/node_modules
+lara-bk-end/public/hot
+lara-bk-end/public/storage
+lara-bk-end/storage/*.key
+lara-bk-end/vendor
+lara-bk-end/.env
+lara-bk-end/.env.backup
+lara-bk-end/.phpunit.result.cache
+lara-bk-end/docker-compose.override.yml
+lara-bk-end/Homestead.json
+lara-bk-end/Homestead.yaml
+lara-bk-end/npm-debug.log
+lara-bk-end/yarn-error.log
+lara-bk-end/.idea
+lara-bk-end/.vscode
+
+
